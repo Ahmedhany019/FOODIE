@@ -12,7 +12,7 @@ export default function Home() {
             <div className=' banner absolute top-[-100px] right-[-170px] -z-10 max-w-[700px]'>
                 <img  src={img} alt='banner'/>
             </div>
-            <div className='w-[90%] flex flex-col items-center md:items-start mt-10 '>
+            <div className='ml-10 w-[90%] flex flex-col items-center md:items-start mt-10 '>
                 <h1 className='text-center md:text-start text-[30px] md:text-[60px] md:leading-[70px] font-bold'>Your Favourite Food<br className='hidden md:block'/>
                     Delivered Hot &<br className='hidden md:block'/>
                     Fresh
