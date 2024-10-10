@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FOODIE/static/css/main.18f02a0d.css",
+    "main.js": "/FOODIE/static/js/main.f2020191.js",
+    "static/media/Home Page Banner Image Background Removed 1.png": "/FOODIE/static/media/Home Page Banner Image Background Removed 1.b569edd5624907b87189.png",
+    "static/media/About Page Banner Image Background Removed 1.png": "/FOODIE/static/media/About Page Banner Image Background Removed 1.688b355b11e2dcd0ae6d.png",
+    "static/media/Banner Background.png": "/FOODIE/static/media/Banner Background.585600da7ff85661555e.png",
+    "static/media/Vector 2.svg": "/FOODIE/static/media/Vector 2.18d7181eb014ada0c181c02188f9d171.svg",
+    "index.html": "/FOODIE/index.html",
+    "static/media/About Section Background.svg": "/FOODIE/static/media/About Section Background.0a7dbd4eba38bd2e174236011872cf3d.svg",
+    "static/media/Vector 1.svg": "/FOODIE/static/media/Vector 1.6917438ee8f0716bad484aa53852b2a7.svg",
+    "static/media/Vector 3.svg": "/FOODIE/static/media/Vector 3.aa5231049fb3efa316cb0302a0cb2115.svg",
+    "static/media/face.svg": "/FOODIE/static/media/face.79a1c77ac74faf881664f80f7d431aba.svg",
+    "static/media/Vector.svg": "/FOODIE/static/media/Vector.cb038e2779f3acb7a73206e47b6e0fb6.svg",
+    "main.18f02a0d.css.map": "/FOODIE/static/css/main.18f02a0d.css.map",
+    "main.f2020191.js.map": "/FOODIE/static/js/main.f2020191.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f02a0d.css",
+    "static/js/main.f2020191.js"
+  ]
+}
